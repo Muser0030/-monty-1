@@ -1,2 +1,1 @@
-# Monty
-JOINT TASK BTWN ADIE AND EEZY
+My first readme
